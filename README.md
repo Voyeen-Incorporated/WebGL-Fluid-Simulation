@@ -1,16 +1,13 @@
+# Voyeen.Inc 
 # WebGL Fluid Simulation
 
 [Play here](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 
 <img src="/screenshot.jpg?raw=true" width="880">
 
-## References
+## Developer
 
-http://developer.download.nvidia.com/books/HTML/gpugems/gpugems_ch38.html
-
-https://github.com/mharrys/fluids-2d
-
-https://github.com/haxiomic/GPU-Fluid-Experiments
+https://github.com/mudabahi
 
 ## License
 
